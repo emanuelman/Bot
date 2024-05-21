@@ -1,0 +1,37 @@
+{
+  "prompts_negativos_culinaria_doce": [
+    {
+      "prompt": "Imagine uma sobremesa queimada e desfigurada, com uma crosta carbonizada e um interior seco e sem sabor.",
+      "descricao": "Evoca uma imagem desagradável de uma sobremesa mal preparada, transmitindo a ideia de decepção e desperdício."
+    },
+    {
+      "prompt": "Visualize uma loja de doces abandonada e decadente, com prateleiras vazias e doces mofados e estragados.",
+      "descricao": "Sugere uma cena desoladora e desanimadora de uma loja de doces abandonada, transmitindo a ideia de decadência e abandono."
+    },
+    {
+      "prompt": "Pense em um chef descontente derramando uma mistura de bolo grudenta e sem sabor em uma forma, com uma expressão de frustração.",
+      "descricao": "Descreve uma cena frustrante e desanimadora de uma experiência culinária fracassada, sugerindo insatisfação e falta de habilidade."
+    },
+    {
+      "prompt": "Imagine uma festa de aniversário arruinada por um bolo desmoronado e mal decorado, com velas quebradas e glacê derretido.",
+      "descricao": "Evoca uma imagem decepcionante de uma festa de aniversário arruinada por uma sobremesa mal feita, transmitindo a ideia de constrangimento e fracasso."
+    },
+    {
+      "prompt": "Visualize um confeiteiro desmotivado tentando decorar um bolo com glacê rachado e cores desbotadas, sem inspiração ou criatividade.",
+      "descricao": "Sugere uma cena desanimadora de falta de motivação e habilidade na preparação de uma sobremesa, transmitindo a ideia de desinteresse e desânimo."
+    },
+    {
+      "prompt": "Pense em uma cozinha bagunçada e suja, com utensílios sujos e ingredientes estragados espalhados pelo balcão.",
+      "descricao": "Descreve uma cena desagradável e pouco higiênica de uma cozinha desorganizada, sugerindo a ideia de falta de cuidado e negligência na preparação de doces."
+    },
+    {
+      "prompt": "Imagine uma sobremesa infectada por insetos e larvas, com ingredientes estragados e um odor repugnante.",
+      "descricao": "Evoca uma imagem repugnante e desagradável de uma sobremesa contaminada por pragas, transmitindo a ideia de nojo e repulsa."
+    },
+    {
+      "prompt": "Visualize um evento de degustação arruinado por sobremesas com sabores desagradáveis e texturas desagradáveis, deixando os convidados insatisfeitos.",
+      "descricao": "Sugere uma cena decepcionante e frustrante de um evento culinário mal sucedido, transmitindo a ideia de fracasso e desapontamento."
+    }
+  ]
+}
+

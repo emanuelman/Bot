@@ -1,0 +1,7 @@
+1- Chat, eu vou te fornecer 5 arquivos.json dos quais contém detalhes sobre a geração de imagens por inteligência artificial através de prompts de texto baseado no modelo stable difusion. Vou te treinar através destes arquivos um de cada vez e após você fazer a análise de cada um dos arquivos que eu te fornecer, peço que caso tenha entendido, retorne: “análise completa”. Caso não entenda algo me retorne: “análise falhou”. Afirmativo?
+
+2- (Forneça os arquivos)
+
+3- Agora, gere uma tabela em ingles sobre uma imagem  de X dividida nos prompts de texto de padrao_luminosidade_culinaria_doce, paletas_cores_culinaria_doce, posicionamento_camera_culinaria_doce, prompts_positivos_culinaria_doce e prompts_negativos_culinaria_doce
+
+4- Como ter ideias de imagens para os videos: Me dê ideias de imagens sobre esta parte do meu video:

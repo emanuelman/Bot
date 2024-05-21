@@ -1,0 +1,37 @@
+{
+  "padrao_luminosidade_culinaria_doce": [
+    {
+      "padrao_luminosidade": "Luz Natural",
+      "descricao": "Iluminação suave e difusa, simulando a luz do dia. Ideal para destacar detalhes, cores vibrantes e criar uma atmosfera fresca e convidativa."
+    },
+    {
+      "padrao_luminosidade": "Backlight",
+      "descricao": "A luz posicionada atrás dos doces, criando um contorno luminoso e destacando a silhueta. Ótimo para realçar a textura e criar um efeito visual dramático."
+    },
+    {
+      "padrao_luminosidade": "Luz Suave",
+      "descricao": "Iluminação suave e difusa de todos os lados, minimizando sombras. Proporciona uma aparência aconchegante e realça a suavidade das sobremesas."
+    },
+    {
+      "padrao_luminosidade": "Contraluz",
+      "descricao": "Iluminação proveniente de trás da cena, destacando contornos e criando uma atmosfera de destaque. Pode ressaltar detalhes e criar um efeito artístico."
+    },
+    {
+      "padrao_luminosidade": "Luz de Estúdio",
+      "descricao": "Iluminação controlada, com foco direto nos doces. Permite realçar cores, texturas e criar um ambiente mais refinado. Ideal para fotografias de estúdio."
+    },
+    {
+      "padrao_luminosidade": "Luz Ambiente",
+      "descricao": "Iluminação suave e uniforme em todo o ambiente, proporcionando uma atmosfera natural e acolhedora. Adequada para cenas mais relaxadas e casuais."
+    },
+    {
+      "padrao_luminosidade": "Luz Intensa",
+      "descricao": "Iluminação forte e direta, destacando detalhes nítidos e criando uma atmosfera energética. Pode ser usada para realçar cores vibrantes e criar contraste."
+    },
+    {
+      "padrao_luminosidade": "Luz Sutil",
+      "descricao": "Iluminação suave, com sombras delicadas. Ideal para criar uma atmosfera romântica e destacar detalhes delicados, como decorações de sobremesas."
+    }
+  ]
+}
+

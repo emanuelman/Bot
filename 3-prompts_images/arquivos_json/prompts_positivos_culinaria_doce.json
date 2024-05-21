@@ -1,0 +1,37 @@
+{
+  "prompts_positivos_culinaria_doce": [
+    {
+      "prompt": "Imagine um bolo de aniversário decorado com confetes coloridos e velas brilhantes, pronto para celebrar uma ocasião especial.",
+      "descricao": "Evoca uma imagem festiva e alegre de um bolo de aniversário, sugerindo celebração e felicidade."
+    },
+    {
+      "prompt": "Visualize uma mesa repleta de cupcakes decorados com glacê colorido, delicadamente enfeitados com confeitos cintilantes.",
+      "descricao": "Sugere uma cena encantadora e colorida de cupcakes decorados, transmitindo uma atmosfera divertida e apetitosa."
+    },
+    {
+      "prompt": "Pense em um balcão de padaria com uma variedade de tortas de frutas frescas, com camadas de recheio suculento e uma crosta dourada e crocante.",
+      "descricao": "Descreve uma cena tentadora de tortas de frutas frescas em uma padaria, despertando o apetite com imagens de sabores e texturas deliciosos."
+    },
+    {
+      "prompt": "Imagine um chef decorando meticulosamente um bolo de casamento com flores de açúcar e detalhes intrincados, criando uma obra de arte comestível.",
+      "descricao": "Evoca uma imagem elegante e refinada de um bolo de casamento decorado, sugerindo beleza, habilidade artística e sofisticação."
+    },
+    {
+      "prompt": "Visualize um piquenique ensolarado com uma cesta cheia de biscoitos caseiros, recém-saídos do forno, com uma textura macia e um aroma tentador.",
+      "descricao": "Sugere uma cena reconfortante e acolhedora de um piquenique ao ar livre, transmitindo a sensação de frescor e prazer de comer biscoitos caseiros."
+    },
+    {
+      "prompt": "Pense em uma vitrine de doces em uma confeitaria elegante, com uma variedade de doces finos, desde trufas de chocolate até macarons coloridos.",
+      "descricao": "Descreve uma cena luxuosa e sofisticada de uma confeitaria, sugerindo indulgência e uma variedade de sabores requintados."
+    },
+    {
+      "prompt": "Imagine uma tarde chuvosa, onde você se aconchega com uma xícara de chocolate quente cremoso, coberto com marshmallows derretidos e raspas de chocolate.",
+      "descricao": "Evoca uma sensação de conforto e indulgência, sugerindo uma cena aconchegante e reconfortante em um dia chuvoso."
+    },
+    {
+      "prompt": "Visualize um jardim encantado com árvores frutíferas carregadas de frutas suculentas, prontas para serem colhidas e transformadas em deliciosas sobremesas.",
+      "descricao": "Sugere uma cena mágica e inspiradora de um jardim fértil, transmitindo a ideia de frescor, abundância e possibilidades culinárias."
+    }
+  ]
+}
+

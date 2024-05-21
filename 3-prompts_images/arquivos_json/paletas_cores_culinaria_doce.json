@@ -1,0 +1,45 @@
+{
+  "paletas_cores_culinaria_doce": [
+    {
+      "nome_paleta": "Doçura",
+      "cores": ["Rosa pastel", "Azul claro", "Amarelo suave", "Verde menta"],
+      "utilizacao": "Ideal para transmitir uma atmosfera doce e suave, perfeito para imagens de cupcakes, cookies, macarons e sobremesas delicadas."
+    },
+    {
+      "nome_paleta": "Chocolover",
+      "cores": ["Marrom chocolate", "Caramelo", "Bege", "Branco"],
+      "utilizacao": "Ótimo para imagens de sobremesas de chocolate, trufas, bolos de chocolate, brigadeiros e qualquer doce com ingredientes de chocolate."
+    },
+    {
+      "nome_paleta": "Frutado",
+      "cores": ["Vermelho morango", "Laranja tangerina", "Amarelo limão", "Verde kiwi"],
+      "utilizacao": "Excelente para imagens de sobremesas com frutas, como tortas de frutas, sorvetes, smoothies, gelatinas e sobremesas refrescantes."
+    },
+    {
+      "nome_paleta": "Mel & Canela",
+      "cores": ["Âmbar", "Mel", "Canela", "Creme"],
+      "utilizacao": "Perfeito para imagens de doces com sabores quentes e reconfortantes, como tortas de maçã, biscoitos de canela, bolos de mel e sobremesas com especiarias."
+    },
+    {
+      "nome_paleta": "Arco-Íris",
+      "cores": ["Vermelho vivo", "Laranja brilhante", "Amarelo vibrante", "Verde esmeralda", "Azul celeste", "Roxo vibrante"],
+      "utilizacao": "Ideal para imagens de sobremesas coloridas e divertidas, como bolos de festa, cupcakes decorados, gelatinas coloridas e doces com cobertura colorida."
+    },
+    {
+      "nome_paleta": "Gourmet",
+      "cores": ["Ouro", "Prata", "Marrom escuro", "Roxo profundo"],
+      "utilizacao": "Excelente para imagens de sobremesas elegantes e sofisticadas, como macarons gourmet, tortas finas, bombons artesanais e sobremesas de alta gastronomia."
+    },
+    {
+      "nome_paleta": "Neutro & Elegante",
+      "cores": ["Cinza pérola", "Marfim", "Bege", "Nude"],
+      "utilizacao": "Ótimo para imagens de sobremesas com uma estética minimalista e elegante, destacando a textura e a apresentação dos doces sem cores muito vibrantes."
+    },
+    {
+      "nome_paleta": "Sonho de Algodão",
+      "cores": ["Rosa algodão doce", "Azul celeste", "Roxo lavanda", "Branco"],
+      "utilizacao": "Ideal para imagens de sobremesas com uma atmosfera de conto de fadas, como algodão doce, cupcakes de unicórnio, sobremesas inspiradas em nuvens e sonhos."
+    }
+  ]
+}
+

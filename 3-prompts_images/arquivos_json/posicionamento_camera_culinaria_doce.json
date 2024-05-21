@@ -1,0 +1,29 @@
+{
+  "posicionamento_camera_culinaria_doce": [
+    {
+      "posicao_camera": "Plongée (ângulo superior)",
+      "descricao": "Posicionada acima da mesa, olhando para baixo em direção à comida. Ideal para capturar a disposição dos doces em uma mesa de sobremesas, mostrando a variedade de cores e texturas."
+    },
+    {
+      "posicao_camera": "Nível da mesa",
+      "descricao": "Colocada ao nível da mesa, na mesma altura dos doces. Oferece uma perspectiva frontal ou ligeiramente inclinada dos doces, destacando detalhes como coberturas, recheios e decorações."
+    },
+    {
+      "posicao_camera": "Close-up",
+      "descricao": "Focalizando de perto um único doce, utensílio ou ingrediente. Perfeito para capturar detalhes intricados, como texturas, camadas, enfeites ou até mesmo as bolhas de ar em um brigadeiro."
+    },
+    {
+      "posicao_camera": "Plano geral",
+      "descricao": "Capturando toda a cena da culinária de doces, incluindo a mesa, utensílios, ingredientes e os doces dispostos. Ótimo para estabelecer a atmosfera geral da preparação ou apresentação dos doces."
+    },
+    {
+      "posicao_camera": "Foco seletivo",
+      "descricao": "Destacando um doce específico em primeiro plano, enquanto o restante da cena permanece em segundo plano, levemente desfocado. Isso pode criar uma sensação de profundidade e destaque visual."
+    },
+    {
+      "posicao_camera": "Macro",
+      "descricao": "Utilizando uma lente macro para capturar detalhes extremamente próximos dos doces, revelando texturas minúsculas, como flocos de chocolate, cristais de açúcar ou grãos de café moído."
+    }
+  ]
+}
+
